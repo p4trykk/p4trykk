@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **pklytta1@gmail.com**
 
-- ⚡ Fun fact **I'm a fan of classic crime and noir movies. Recently enjoying photography and keeping aquariums as well.**
+- ⚡ Fun fact **I'm a fan of classic crime movies. Recently enjoying photography and keeping aquariums as well.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
