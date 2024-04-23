@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **pklytta1@gmail.com**
 
-- ⚡ **I'm a movie maniac. Recently enjoying photography and keeping aquariums as well.**
+- ⚡ **From exploring the art of filmmaking to capturing moments through the lens and creating serene underwater worlds in my aquarium** 🎬📷🐠
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
