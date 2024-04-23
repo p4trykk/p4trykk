@@ -10,8 +10,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/20900128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20900128" height="30" width="40" /></a>
-<a href="https://kaggle.com/patrykklytta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="patrykklytta" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pklytta1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@pklytta1" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/patryk-klytta-0a5421305/" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="@pklytta1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
