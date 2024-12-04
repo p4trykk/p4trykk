@@ -17,14 +17,21 @@
 <a href="https://www.linkedin.com/in/patryk-klytta-0a5421305/" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="@pklytta1" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Machine Learning & Data Science:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,nodejs,npm,react,js,html,css,mysql,postgres,mongo,docker,git,postman" />
+    <img src="https://skillicons.dev/icons?i=py,tensorflow,sklearn,opencv,selenium,matlab,r" />
   </a>
 </p>
 
-<h3 align="center">Also use:</h3>
+<h3 align="center">Languages and Tools (Development):</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,nodejs,npm,express,react,js,html,css,mysql,postgres,mongo,docker,git,postman" />
+  </a>
+</p>
+
+<h3 align="center">Also Use:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,maven,windows,ubuntu,linux,vim,bash,powershell,ps,latex,gcp,firebase" />
