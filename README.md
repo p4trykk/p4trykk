@@ -37,12 +37,13 @@
     <img src="https://skillicons.dev/icons?i=java,maven,windows,ubuntu,linux,vim,bash,powershell,ps,latex,gcp,firebase" />
   </a>
 </p>
+  
+| ![P4tryk GitHub stats](https://github-readme-stats.vercel.app/api?username=p4trykk&show_icons=true&theme=tokyonight) | [![GitHub Streak](https://streak-stats.demolab.com?user=p4trykk&theme=tokyonight&border_radius=5&locale=pl&mode=weekly)](https://git.io/streak-stats) |
+|----------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p4trykk&hide=html,c,cython,fortran,powershell&theme=tokyonight) | ![Trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=tokyonight) |
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=p4trykk&show_icons=true&locale=en&layout=compact" alt="p4trykk" width="30%" height="150" />
-    <img src="https://github-readme-stats.vercel.app/api?username=p4trykk&show_icons=true&locale=en" alt="p4trykk" width="30%" height="150" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=p4trykk&" alt="p4trykk" width="30%" height="150" />
-</p>
+
+
 
 
 
